@@ -15,4 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
+```text
+Ruby       10 hrs 52 mins  ████████████████████████▒   97.37 % 
+SCSS       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+ERB        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+Other      3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+Markdown   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+```
 <!--END_SECTION:waka-->
