@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on:![Alt text](https://tenor.com/view/leslie-knope-parks-and-rec-gif-8924761)
+- 👧🏻 Who am I? As Leslie Knope puts it: ![Alt text](https://tenor.com/view/leslie-knope-parks-and-rec-gif-8924761)
+
 <!--START_SECTION:waka-->
 ```text
 Ruby       10 hrs 52 mins  ████████████████████████▒   97.37 % 
