@@ -52,8 +52,6 @@
   
 ### 👧🏻 Who am I? Well...as Leslie Knope puts it: <br>
 <span style="color: pink;">Who am I?</span>
-
-<img src="https://tenor.com/view/leslie-knope-parks-and-rec-gif-8924761.gif" width="180" height="200" />
     
 ### <img src="https://media.giphy.com/media/lOy2Atid9t5dpdj7XA/giphy.gif" width="70" height="70" /> This week I've been working on: 
 <!--START_SECTION:waka-->
