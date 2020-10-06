@@ -8,44 +8,33 @@
 
 ![Ara's github stats](https://github-readme-stats.vercel.app/api/?username=aracelicaes&show_icons=true&hide_border=true&theme=buefy)
 
-<img src="https://img.icons8.com/nolan/64/timeline-week.png" width="50" height="50" />
+<table>
+  <tr >
+    <td><img src="https://img.icons8.com/nolan/64/timeline-week.png" width="50" height="50" /></td>
+    <td align="right"><img src="https://img.icons8.com/nolan/64/heroku.png" width="50" height="50" /></td>
+    <td align="right"><img src="https://img.icons8.com/nolan/64/css-filetype.png" width="50" height="50" /></td>
+    <td align="right"><img src="https://img.icons8.com/nolan/64/visual-studio-code-2019.png" width="50" height="50" /></td>
+    <td align="right"><img src="https://img.icons8.com/nolan/64/diploma.png" width="50" height="50" /></td>
+    <td align="right"><img src="https://img.icons8.com/nolan/64/multi-edit.png" width="50" height="50" /></td>
+    <td align="right"><img src="https://img.icons8.com/nolan/64/linkedin-circled.png" width="50" height="50" /></td>
+    <td align="right"><img src="https://img.icons8.com/nolan/64/html-5.png" width="50" height="50" /></td>
+    <td align="right"><img src="https://img.icons8.com/nolan/64/github.png" width="50" height="50" /></td>
+    <td align="right"><img src="https://img.icons8.com/nolan/64/twitter-circled.png" width="50" height="50" /></td>
+    <td align="right"><img src="https://img.icons8.com/nolan/64/adobe-illustrator.png" width="50" height="50" /></td>
+    <td align="right"><img src="https://img.icons8.com/nolan/64/adobe-indesign.png" width="50" height="50" /></td>
+    <td align="right"><img src="https://img.icons8.com/nolan/64/adobe-photoshop.png" width="50" height="50" /></td>
+    <td align="right"><img src="https://img.icons8.com/nolan/64/javascript.png" width="50" height="50" /></td>
+    <td align="right"><img src="https://img.icons8.com/nolan/64/react-native.png" width="50" height="50" /></td>
+    <td align="right"><img src="https://img.icons8.com/nolan/64/gimp.png" width="50" height="50" /></td>
+    <td align="right"><img src="https://img.icons8.com/nolan/64/inkscape.png" width="50" height="50" /></td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://img.icons8.com/nolan/64/css-filetype.png" width="50" height="50" /></td>
+  </tr>
+</table>
 
-<img src="https://img.icons8.com/nolan/64/heroku.png" width="50" height="50" />
-
-<img src="https://img.icons8.com/nolan/64/css-filetype.png" width="50" height="50" />
-
-<img src="https://img.icons8.com/nolan/64/visual-studio-code-2019.png" width="50" height="50" />
-
-<img src="https://img.icons8.com/nolan/64/diploma.png" width="50" height="50" />
-
-<img src="https://img.icons8.com/nolan/64/multi-edit.png" width="50" height="50" />
-
-<img src="https://img.icons8.com/nolan/64/linkedin-circled.png" width="50" height="50" />
-
-<img src="https://img.icons8.com/nolan/64/html-5.png" width="50" height="50" />
-
-<img src="https://img.icons8.com/nolan/64/github.png" width="50" height="50" />
-
-<img src="https://img.icons8.com/nolan/64/twitter-circled.png" width="50" height="50" />
-
-<img src="https://img.icons8.com/nolan/64/adobe-illustrator.png" width="50" height="50" />
-
-<img src="https://img.icons8.com/nolan/64/adobe-indesign.png" width="50" height="50" />
-
-<img src="https://img.icons8.com/nolan/64/adobe-photoshop.png" width="50" height="50" />
-
-<img src="https://img.icons8.com/nolan/64/javascript.png" width="50" height="50" />
-
-<img src="https://img.icons8.com/nolan/64/react-native.png" width="50" height="50" />
-
-<img src="https://img.icons8.com/nolan/64/gimp.png" width="50" height="50" />
-
-<img src="https://img.icons8.com/nolan/64/inkscape.png" width="50" height="50" />
 
 <img src="https://img.icons8.com/nolan/64/working-with-a-laptop.png"/>
-
-
-
 
 ### 💬 Favorite phrase: <br>
 <img src="https://media.giphy.com/media/H8FQZWE81iC6iguii7/giphy.gif" width="90" height="80" />
