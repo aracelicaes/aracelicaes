@@ -9,8 +9,6 @@ I enjoy turning designs into stylesheets and functional web apps. I love the thr
 
 ### After Work
 I enjoy:
-- <img src="https://img.icons8.com/cotton/64/000000/sunset--v2.png" width="20" height="20" /> Taking pictures of sunsets.
-- <img src="https://img.icons8.com/dusk/64/000000/spotify.png" width="20" height="20" /> Listening to music.
 - <img src="https://img.icons8.com/plasticine/100/000000/ballet-dancer-female.png" width="20" height="20" /> Dancing with my husband.
 - 🐶 Taking naps with my Basset Nina.
 - <img src="https://img.icons8.com/plasticine/20/000000/design--v1.png"/> Sharpening my Design Skills.
@@ -18,54 +16,17 @@ I enjoy:
 ### How I de-stress
 - <img src="https://img.icons8.com/emoji/20/000000/folded-hands-medium-light-skin-tone.png"/> Yoga
 - <img src="https://img.icons8.com/dusk/20/000000/cake.png"/> Baking
-- <img src="https://img.icons8.com/emoji/20/000000/woman-in-lotus-position.png"/> Meditating
 - <img src="https://img.icons8.com/dusk/20/000000/micro.png"/> Friday Night Karoke.
-- <img src="https://img.icons8.com/color/20/000000/natural-food.png"/> Laying on the grass.
-- <img src="https://img.icons8.com/dusk/20/000000/dog-paw-print--v1.png"/> Afternoon Walks with Nina.
 
-## <img src="https://img.icons8.com/nolan/64/multi-edit.png" width="50" height="50" />My Goals as a Developer:
+## <img src="https://img.icons8.com/nolan/64/multi-edit.png" width="50" height="50" /> My Goals as a Developer:
 To have a remote job as a Rails developer or Front End Developer.
 To become a Ruby on Rails expert so I can teach young girls in Mexico and encourage them to join a Programming career path. To break stereotypes about the programming world for women in Mexico and empower women in technology in my country.
 
-## <img src="https://img.icons8.com/nolan/64/timeline-week.png" width="50" height="50" /> Stats:
+## <img src="https://img.icons8.com/nolan/64/working-with-a-laptop.png" width="50" height="50" /> Stats:
 
 ![Ara's github stats](https://github-readme-stats.vercel.app/api/?username=aracelicaes&show_icons=true&hide_border=true&theme=buefy)
 
-## <img src="https://img.icons8.com/nolan/64/working-with-a-laptop.png"/> Skills:
-<table align="center">
-  <tr >
-    <td></td>
-    <td align="right"><img src="https://img.icons8.com/nolan/64/heroku.png" width="50" height="50" /></td>
-    <td align="right"><img src="https://img.icons8.com/nolan/64/css-filetype.png" width="50" height="50" /></td>
-    <td align="right"><img src="https://img.icons8.com/nolan/64/visual-studio-code-2019.png" width="50" height="50" /></td>
-    <td align="right"><img src="https://img.icons8.com/nolan/64/diploma.png" width="50" height="50" /></td>
-    <td align="right"></td>
-    <td align="right"><img src="https://img.icons8.com/nolan/64/linkedin-circled.png" width="50" height="50" /></td>
-    <td align="right"><img src="https://img.icons8.com/nolan/64/html-5.png" width="50" height="50" /></td>   
-  </tr>
-  <tr>
-    <td></td>
-    <td align="right"><img src="https://img.icons8.com/nolan/64/twitter-circled.png" width="50" height="50" /></td>
-    <td align="right"><img src="https://img.icons8.com/nolan/64/adobe-illustrator.png" width="50" height="50" /></td>
-    <td align="right"><img src="https://img.icons8.com/nolan/64/adobe-indesign.png" width="50" height="50" /></td>
-    <td align="right"><img src="https://img.icons8.com/nolan/64/adobe-photoshop.png" width="50" height="50" /></td>
-    <td align="right"><img src="https://img.icons8.com/nolan/64/javascript.png" width="50" height="50" /></td>
-    <td align="right"><img src="https://img.icons8.com/nolan/64/react-native.png" width="50" height="50" /></td>
-    <td align="right"><img src="https://img.icons8.com/nolan/64/gimp.png" width="50" height="50" /></td>
-    <td align="right"><img src="https://img.icons8.com/nolan/64/inkscape.png" width="50" height="50" /></td>
-  </tr>
-</table>
-
-
-#### <div align="center">*"I like nonesense, it wakes up the brain cells. - Dr. Seuss"*</div>
-
-
-
-### 💬 Favorite phrase: <br>
-<img src="https://media.giphy.com/media/H8FQZWE81iC6iguii7/giphy.gif" width="90" height="80" />
-
-    
-### <img src="https://media.giphy.com/media/lOy2Atid9t5dpdj7XA/giphy.gif" width="70" height="70" /> This week I've been working on: 
+#### This week I've been working on:
 <!--START_SECTION:waka-->
 ```text
 Ruby       10 hrs 52 mins  ████████████████████████▒   97.37 % 
@@ -75,3 +36,26 @@ Other      3 mins          ░░░░░░░░░░░░░░░░░�
 Markdown   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 ```
 <!--END_SECTION:waka-->
+
+## <img src="https://img.icons8.com/nolan/64/diploma.png" width="50" height="50" /> Skills:
+<table align="left">
+  <tr>
+    <td align="right"><img src="https://img.icons8.com/nolan/64/html-5.png" width="50" height="50" /></td>
+    <td align="right"><img src="https://img.icons8.com/nolan/64/css-filetype.png" width="50" height="50" /></td>
+    <td align="right"><img src="https://img.icons8.com/nolan/50/ruby-programming-language.png"/></td>
+    <td align="right"><img src="https://img.icons8.com/nolan/64/javascript.png" width="50" height="50" /></td>
+    <td align="right"><img src="https://img.icons8.com/nolan/64/react-native.png" width="50" height="50" /></td>    
+    <td align="right"><img src="https://img.icons8.com/nolan/50/sql.png"/></td> 
+  </tr>
+  <tr>
+    <td align="right"><img src="https://img.icons8.com/nolan/64/heroku.png" width="50" height="50" /></td>   
+    <td align="right"><img src="https://img.icons8.com/nolan/50/linux--v2.png"/></td>
+    <td align="right"><img src="https://img.icons8.com/nolan/64/visual-studio-code-2019.png" width="50" height="50" /></td>
+    <td align="right"><img src="https://img.icons8.com/nolan/64/adobe-illustrator.png" width="50" height="50" /></td>
+    <td align="right"><img src="https://img.icons8.com/nolan/64/adobe-indesign.png" width="50" height="50" /></td>
+    <td align="right"><img src="https://img.icons8.com/nolan/64/adobe-photoshop.png" width="50" height="50" /></td>
+  </tr>
+</table>
+
+
+## <div align="center">*"I like nonesense, it wakes up the brain cells. - Dr. Seuss"*</div>
