@@ -2,6 +2,7 @@
 **aracelicaes/aracelicaes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 # <div align="center"><img src="https://media.giphy.com/media/fo2dhRTmaULbStoFkX/giphy.gif" width="50" height="50" /> Hello there amazing people!<img src="https://media.giphy.com/media/fo2dhRTmaULbStoFkX/giphy.gif" width="50" height="50" /> <img src="https://media.giphy.com/media/f3oXKfLFPCQxdLECS8/giphy.gif" width="120" height="160" /> </div>
+
 ## <img src="https://img.icons8.com/nolan/64/github.png" width="50" height="50" />Who am I?
 
 My name is Ara (short for Araceli). My motto in life is *"Challenge Accepted"*. I'm currently a Student at Microverse Inc. working hard to become a Full Stack Developer. I am an introvert with highly developed social skills, a natural leader, an empath, and a big fan of Marie Kondo's organizing skills (✨does the code spark joy?✨).
@@ -38,7 +39,7 @@ Markdown   1 min           ░░░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ## <img src="https://img.icons8.com/nolan/64/diploma.png" width="50" height="50" /> Skills:
-<table align="left">
+<table>
   <tr>
     <td align="right"><img src="https://img.icons8.com/nolan/64/html-5.png" width="50" height="50" /></td>
     <td align="right"><img src="https://img.icons8.com/nolan/64/css-filetype.png" width="50" height="50" /></td>
@@ -57,5 +58,12 @@ Markdown   1 min           ░░░░░░░░░░░░░░░░░�
   </tr>
 </table>
 
+###### Resources:
+-[Github Stats](https://github.com/anuraghazra/github-readme-stats)
+-[Development Stats](https://github.com/marketplace/actions/profile-readme-development-stats)
+-[Gradient Icons](https://icons8.com/icons/nolan)
+-[Color Icons 1](https://icons8.com/icon/set/nature/color)
+-[Color Icons 2](https://getemoji.com/)
+-[Gifs](https://giphy.com/)
 
 ## <div align="center">*"I like nonesense, it wakes up the brain cells. - Dr. Seuss"*</div>
