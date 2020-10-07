@@ -58,6 +58,8 @@ Markdown   1 min           ░░░░░░░░░░░░░░░░░�
   </tr>
 </table>
 
+## <div align="center">*"I like nonesense, it wakes up the brain cells. - Dr. Seuss"*</div>
+
 ###### Resources:
 -[Github Stats](https://github.com/anuraghazra/github-readme-stats)
 -[Development Stats](https://github.com/marketplace/actions/profile-readme-development-stats)
@@ -65,5 +67,3 @@ Markdown   1 min           ░░░░░░░░░░░░░░░░░�
 -[Color Icons 1](https://icons8.com/icon/set/nature/color)
 -[Color Icons 2](https://getemoji.com/)
 -[Gifs](https://giphy.com/)
-
-## <div align="center">*"I like nonesense, it wakes up the brain cells. - Dr. Seuss"*</div>
