@@ -3,7 +3,7 @@
 -->
 # <div align="center"><img src="https://media.giphy.com/media/fo2dhRTmaULbStoFkX/giphy.gif" width="50" height="50" /> Hello there amazing people!<img src="https://media.giphy.com/media/fo2dhRTmaULbStoFkX/giphy.gif" width="50" height="50" /> <img src="https://media.giphy.com/media/f3oXKfLFPCQxdLECS8/giphy.gif" width="120" height="160" /> </div>
 
-## <img src="https://img.icons8.com/nolan/64/github.png" width="50" height="50" />Who am I?
+## Who am I?
 
 My name is Ara (short for Araceli). My motto in life is *"Challenge Accepted"*. I'm currently a Student at Microverse Inc. working hard to become a Full Stack Developer. I am an introvert with highly developed social skills, a natural leader, an empath, and a big fan of Marie Kondo's organizing skills (✨does the code spark joy?✨).
 I enjoy turning designs into stylesheets and functional web apps. I love the thrill, excitement, and satisfaction that comes with seeing the design come to life. My favorite stack so far is Ruby and Ruby on Rails. They make writing clean, clear, and uncluttered code simple.
@@ -19,11 +19,11 @@ I enjoy:
 - <img src="https://img.icons8.com/dusk/20/000000/cake.png"/> Baking
 - <img src="https://img.icons8.com/dusk/20/000000/micro.png"/> Friday Night Karoke.
 
-## <img src="https://img.icons8.com/nolan/64/multi-edit.png" width="50" height="50" /> My Goals as a Developer:
+## My Goals as a Developer:
 To have a remote job as a Rails developer or Front End Developer.
 To become a Ruby on Rails expert so I can teach young girls in Mexico and encourage them to join a Programming career path. To break stereotypes about the programming world for women in Mexico and empower women in technology in my country.
 
-## <img src="https://img.icons8.com/nolan/64/working-with-a-laptop.png" width="50" height="50" /> Stats:
+## Stats:
 
 ![Ara's github stats](https://github-readme-stats.vercel.app/api/?username=aracelicaes&show_icons=true&hide_border=true&theme=buefy)
 
@@ -38,7 +38,7 @@ Markdown   1 min           ░░░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-## <img src="https://img.icons8.com/nolan/64/diploma.png" width="50" height="50" /> Skills:
+## Skills:
 <table>
   <tr>
     <td align="right"><img src="https://img.icons8.com/nolan/64/html-5.png" width="50" height="50" /></td>
