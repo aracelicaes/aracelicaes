@@ -16,4 +16,4 @@ jobs:
       - uses: aracelicaes/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_OS: False
+          SHOW_OS: True
