@@ -13,7 +13,8 @@ jobs:
     name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-      - uses: aracelicaes/waka-readme@master
+      - uses: aracelicaes/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_OS: True
+          SHOW_OS: "False"
+          SHOW_PROJECTS: "False"
