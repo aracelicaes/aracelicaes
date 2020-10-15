@@ -31,7 +31,7 @@ To become a Ruby on Rails expert so I can teach young girls in Mexico and encour
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-[![aracelicaes's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aracelicaes)](https://github.com/aracelicaes/github-readme-stats)
+[![aracelicaes's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aracelicaes)](https://github.com/aracelicaes/github-readme-stats&theme=buefy)
 
 ## Skills:
 <table>
