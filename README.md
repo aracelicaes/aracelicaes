@@ -29,13 +29,6 @@ To become a Ruby on Rails expert so I can teach young girls in Mexico and encour
 
 #### This week I've been working on:
 <!--START_SECTION:waka-->
-```text
-Ruby       10 hrs 52 mins  ████████████████████████▒   97.37 % 
-SCSS       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
-ERB        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
-Other      3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
-Markdown   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-```
 <!--END_SECTION:waka-->
 
 ## Skills:
